@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center" >Hi there 👋, I'm Kani Badavi 😊</h1>
+<h1 align="center" >Hi there 👋, I'm Kani Eshgesu 😊</h1>
 </br>
 <!--
 **kanibadavi/kanibadavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on  GitHub profile.
