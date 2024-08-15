@@ -7,8 +7,8 @@
 
 <!-- Here are some ideas to get you started: -->
 <p align = "center">
-- 🌱 I’m currently learning JavaScript , Nodejs and Reactjs</br>
-- 🤔 I’m looking for help with Fullstack</br>
+- 🌱 I’m a Full-stack MERN developer professional in JavaScript, Nodejs, and Reactjs</br>
+- 🤔 I’m eager to learn more!</br>
 </p>
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
@@ -67,13 +67,7 @@
 </p>
 <h3 align="center">Connect with me</h3>
 
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://www.linkedin.com/in/kani-badavi-eshgesu-798936241/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-  </div>
-</div>
+
 <!-- <h3 align="center">My activity on GitHub</h3>
 
 <div>
